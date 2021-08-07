@@ -1,2 +1,2 @@
 # Sample_Repo
-Sample Repo is created
+Sample Repo is created in duplicate branch
